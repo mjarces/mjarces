@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjarces
 - 👀 I’m interested in backend development
 - 🌱 I’m currently working as Software Engineer
-- 📫 How to reach me: mjarces@outlook.com
+- 📫 How to reach me: manoellajarces@gmail.com
 
 <!---
 mjarces/mjarces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
